@@ -7,17 +7,20 @@ enableGitInfo = true
     [params.docs]
         title = 'contrib'
         darkMode = true
-        repoURL = "https://github.com/twinsnes/cligen"
+        repoURL = "https://github.com/twinsnes/contrib"
         prism = true
         sidebarIcons = true
         titleIcon = true
         descriptions = true
 
     [params.social]
-        github = "twinsnes/cligen"
+        github = "twinsnes/contrib"
 
     [params.flexsearch]
         enabled = true
+
+    [params.footer]
+        copyright = "&copy; 2025 Thomas Winsnes"
 
 [menu]
 [[menu.primary]]

@@ -4,8 +4,8 @@ hero:
   weight: 10
   template: hero
 
-  title: contrib
-  subtitle: <update the data/landing.yaml file to set this>
+  title: Contrib
+  subtitle: Acknowledge the work of everyone who contributes to open source by listing them in your readme automatically.
 
   image:
     path: "images"
@@ -27,7 +27,7 @@ hero:
 
 # Icon reference: https://fonts.google.com/icons?icon.platform=web&icon.set=Material+Icons
 featureGrid:
-  enable: true
+  enable: false
   weight: 20
   template: feature grid
 
