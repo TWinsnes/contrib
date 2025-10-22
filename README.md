@@ -1,4 +1,11 @@
-# contrib
+# Contrib
+
+
+![GitHub Release](https://img.shields.io/github/v/release/twinsnes/contrib)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/twinsnes/contrib/ci.yml)
+![GitHub License](https://img.shields.io/github/license/twinsnes/contrib)
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/twinsnes/contrib)
+![Github Downloads](https://img.shields.io/github/downloads/twinsnes/contrib/total)
 
 Command line tool to help document contributors to a git project. These will be written to a file in markdown format.
 
