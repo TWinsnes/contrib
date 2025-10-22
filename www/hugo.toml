@@ -1,0 +1,35 @@
+languageCode = 'en-us'
+title = 'contrib'
+enableGitInfo = true
+
+[params]
+
+    [params.docs]
+        title = 'contrib'
+        darkMode = true
+        repoURL = "https://github.com/twinsnes/cligen"
+        prism = true
+        sidebarIcons = true
+        titleIcon = true
+        descriptions = true
+
+    [params.social]
+        github = "twinsnes/cligen"
+
+    [params.flexsearch]
+        enabled = true
+
+[menu]
+[[menu.primary]]
+    name = "Docs"
+    url = "docs/"
+    identifier = "docs"
+    weight = 10
+
+[module]
+    [[module.imports]]
+        path = "github.com/colinwilson/lotusdocs"
+        disable = false
+    [[module.imports]]
+        path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
+        disable = false
