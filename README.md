@@ -98,3 +98,10 @@ steps required are defined in the `Makefile`.
 
 ---
 This app was scaffolded using [cligen](https://github.com/twinsnes/cligen) ❤️
+<!---Contrib Block Start-->
+# Contributors
+
+Without these amazing people, this project wouldn't exist.
+
+- Thomas Winsnes
+<!---Contrib Block End-->
