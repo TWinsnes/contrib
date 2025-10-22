@@ -30,7 +30,7 @@ contrib
 To see more usage options use the `--help | -h` flag
 
 ```shell
-cotrib -h
+contrib -h
 ```
 
 ### Controlling where in the file the list is written
